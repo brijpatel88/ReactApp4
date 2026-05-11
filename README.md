@@ -38,9 +38,10 @@ src/
 ├── __tests__/
 ├── App.tsx
 └── App.css
+```
 
-# Assignment Concepts Covered
 
+## Assignment Concepts Covered
 * Reusable Components
 * State Management
 * Context API
@@ -49,5 +50,4 @@ src/
 * TypeScript in React
 
 ## Author
-
 Brijesh Patel
